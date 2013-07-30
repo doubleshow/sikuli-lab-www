@@ -77,7 +77,7 @@ image:
 	<img class="img-thumbnail" src="/images/jeeeum_kim.png"/>
   </div>
   <div class="col-lg-8">
-	Jeeeum Kim<br>
+	Jeeeun Kim<br>
 	<a class="email" href="mailto:jeeeum.kim@colorado.edu">jeeeum.kim@colorado.edu</a><br>	
 	<small><a href="http://abigalestangl.com/">Homepage</a></small>
   </div>
