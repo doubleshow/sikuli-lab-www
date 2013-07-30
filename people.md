@@ -27,8 +27,8 @@ image:
   </div>
   <div class="col-lg-8">
 	Tom Yeh<br>
-	<small>Assistant Professor<br></small>
-	<small>PhD Computer Science MIT 2009</small>
+	<small>Assistant Professor</small><br>
+	<small>PhD Computer Science MIT 2009</small><br>
 	<a class="email" href="mailto:tom.yeh@colorado.edu">tom.yeh@colorado.edu</a><br>				
   </div>
 </div>
@@ -136,5 +136,28 @@ image:
 	Sarah Feller<br>
 	<a class="email" href="mailto:sarah.feller@Colorado.EDU">sarah.feller@colorado.edu</a><br>						
 		<img style="float:right" src="/images/creu.png"/>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-4">
+	<img class="img-thumbnail" src="/images/esha_mehta.png"/>
+  </div>
+  <div class="col-lg-8">
+	Esha Mehta<br>
+	<a class="email" href="mailto:sarah.feller@Colorado.EDU">esha.mehta@colorado.edu</a><br>						
+  </div>
+</div>
+
+## Alumni
+
+<div class="row">
+  <div class="col-lg-4">
+	<img class="img-thumbnail" src="/images/vgod.png"/><br>
+	Tsung-Hsiang Chang
+  </div>
+  <div class="col-lg-8">
+	<img class="img-thumbnail" src="/images/anas_salamah.jpg"/><br>
+	Anas Salamah
   </div>
 </div>
