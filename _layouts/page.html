@@ -11,11 +11,15 @@
 
 {% include chrome-frame.html %}
 
-{% include navigation.html %}
-
-{% if page.image.feature %}<div class="image-wrap">
+<div>
+<div style="position:relative; z-index:3">
+	{% include navigation.html %}
+</div>
+	
+{% if page.image.feature %}<div class="image-wrap" style="position:relative; top:-70px; z-index:-1;">	
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
 </div><!-- /.image-wrap -->{% endif %}
+</div>
 
 <div id="main" role="main"  itemprop="mainContentOfPage">
   <div class="article-author-top">
