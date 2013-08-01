@@ -24,6 +24,16 @@ PhD student Khalid Alharbi has released Sikuli Slides 1.3.0 and launched a <a hr
 
 <div class="row">
   <div class="col-lg-2 text-right">
+	<span class="date">7/30/2013</span>
+  </div>
+  <div class="col-lg-10">
+	<span class="label label-info">Software</span>
+Our <a href="https://play.google.com/store/apps/details?id=net.nature.client">NatureNet Mobile App</a> has been released and deployed at the Aspen Center for Environmental Studies for collecting biodiversity data.
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-2 text-right">
 	<span class="date">7/16/2013</span>
   </div>
   <div class="col-lg-10">
