@@ -114,3 +114,15 @@ Users make lasting judgments about a website's appeal within a split second of s
   <a href="http://vizweb.org/" class="btn btn-default">Website</a>
 </div>
 
+----
+
+## Synapsage
+
+![synapsage](/images/banner_synapsage.png)
+
+Synapsage is a mobile/web app that enables students to collaborate in real-time in taking multimedia lecture notes. It also provides facilities for easy sharing and reviewing of the captured materials. Synapsage is intended to become the largest free and open collection of quality academic content on the web, gathered by students from all around the world. Two main challenges that we are currently tackling in this project are: to explore effective ways of combining multiple recordings of a lecture to reduce the noise and enhance the audio quality; to take advantage of multiple recordings of a lecture to generate accurate transcriptions of it.
+
+<div class="btn-group">
+  <a href="http://www.synapsage.com/" class="btn btn-default">Website</a>
+</div>
+

@@ -14,6 +14,16 @@ Sikuli in Huichol Indian means God's Eyes, the ability to see and understand.  I
 
 <div class="row">
   <div class="col-lg-2 text-right">
+	<span class="date">7/31/2013</span>
+  </div>
+  <div class="col-lg-10">
+	<span class="label label-info">Software</span>
+PhD student Khalid Alharbi has released Sikuli Slides 1.3.0 and launched a <a href="http://slides.sikuli.org">new website</a>.
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-2 text-right">
 	<span class="date">7/16/2013</span>
   </div>
   <div class="col-lg-10">
