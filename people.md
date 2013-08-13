@@ -78,8 +78,8 @@ image:
   </div>
   <div class="col-lg-8">
 	Jeeeun Kim<br>
-	<a class="email" href="mailto:jeeeum.kim@colorado.edu">jeeeum.kim@colorado.edu</a><br>	
-	<small><a href="http://abigalestangl.com/">Homepage</a></small>
+	<a class="email" href="mailto:jeeeun.kim@colorado.edu">jeeeun.kim@colorado.edu</a><br>	
+	<small><a href="http://www.jeeeunkim.com//">Homepage</a></small>
   </div>
 </div>
 
